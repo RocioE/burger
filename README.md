@@ -7,4 +7,4 @@ The user may select any burger name and add it to the menu. As it is added, it a
 
 
 Demo
-Experience the app:
+Experience the app: https://git.heroku.com/eatthatburger-app.git
